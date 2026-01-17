@@ -69,8 +69,8 @@ Full-stack simulation platform where users apply for Passport/Visa and admins ap
 
 ---
 
-## 🐍 Contribution Snake
-Git Hub
+## 🐍 Git Hub Contribution Snake
+
 ![snake gif](https://raw.githubusercontent.com/HeerPatel30/HeerPatel30/output/github-contribution-grid-snake-dark.svg)
 ---
 
