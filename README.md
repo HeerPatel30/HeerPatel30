@@ -67,18 +67,16 @@ Full-stack simulation platform where users apply for Passport/Visa and admins ap
 
 ---
 
+## 🐍 Contribution Snake
+![snake gif](https://raw.githubusercontent.com/HeerPatel30/HeerPatel30/output/github-contribution-grid-snake-dark.svg)
+---
+
 ## 📚 KodeKloud Progress
 Hands-on DevOps learning through labs & practice.
 
 ![KodeKloud Progress](assets/kodekloud-devops-labs/assets/kodekloud-dashboard.png)
 
 ---
-
-## 🐍 Contribution Snake
-![snake gif](https://raw.githubusercontent.com/HeerPatel30/HeerPatel30/output/github-contribution-grid-snake-dark.svg)
-
----
-
 ## 📫 Connect with Me
 🔗 LinkedIn: https://www.linkedin.com/in/heer-patel-7ba59230a  
 💻 GitHub: https://github.com/HeerPatel30  
