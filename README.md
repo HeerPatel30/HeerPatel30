@@ -1,34 +1,58 @@
-# Hi, I'm Heer Patel 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Heer+Patel+%F0%9F%91%8B;DevOps+Intern+%7C+Cloud+%26+Backend+Engineer;Linux+%7C+AWS+%7C+Docker+%7C+CI%2FCD+%7C+Redis;Building+secure+and+scalable+systems" />
+</p>
 
-DevOps Intern | Cloud & Backend Engineer (Node.js)  
-Linux • AWS • Docker • CI/CD • Redis • Webhooks
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="550" />
+</p>
+
+---
+
+# 👋 Heer Patel  
+**DevOps Intern | Cloud & Backend Engineer (Node.js)**  
+**Linux • AWS • Docker • CI/CD • Redis • Webhooks**
 
 ---
 
 ## 🚀 About Me
-I’m a DevOps intern with hands-on experience in Linux systems, deployment support, and backend development.  
-I enjoy working on automation, improving reliability, and building secure & scalable applications.
+I’m a DevOps Intern with hands-on experience in Linux systems, deployment support, and backend development.  
+I enjoy building secure and scalable products, automating workflows, and improving reliability through real-world learning.
 
 ---
 
 ## 🔧 Tech Stack
-**DevOps & Cloud:** Linux, Git/GitHub, Docker, CI/CD, AWS (Fundamentals), Redis  
-**Backend:** Node.js, Express.js, MongoDB, REST APIs, Webhooks  
-**Tools:** Nginx/Apache, Postman
+- **DevOps & Cloud:** Linux, Git/GitHub, Docker, CI/CD, AWS (Fundamentals), Redis  
+- **Backend:** Node.js, Express.js, MongoDB, REST APIs, Webhooks  
+- **Tools:** Nginx/Apache, Postman
 
 ---
 
 ## 🌟 Featured Projects
+
 ### 🔹 Frontilio — No-Code Twilio Communication Platform
-Secure no-code Twilio communication platform with encrypted credentials, Redis caching, webhook-based delivery tracking, and subscription model.  
+A secure no-code communication platform powered by Twilio. Users can add Twilio credentials, pick a plan, and send SMS instantly from a dashboard.  
+✅ Encrypted credentials (in-transit + at-rest)  
+✅ Webhook-based real-time delivery tracking  
+✅ Redis caching for performance  
+✅ Paddle subscription billing + Brevo transactional emails  
 **Tech:** Node.js, Redis, Webhooks, Twilio API, Paddle, Brevo
 
+---
+
 ### 🔹 Ai-Grammer — AI Text Enhancement Platform
-AI-based text enhancement app with login/signup, Redis rate limiter, and history tracking.  
-**Tech:** Node.js, Redis, MongoDB, Authentication
+AI-powered web app that improves grammar and enhances descriptions.  
+✅ Login/Signup with protected access  
+✅ Redis-based rate limiter for request control  
+✅ History tracker for saved prompts and results  
+**Tech:** Node.js, Express.js, Redis, MongoDB, Authentication (JWT/Sessions)
+
+---
 
 ### 🔹 Visa & Passport Application Portal (Simulation)
-A web-based simulation where users apply for passport/visa and admins approve/reject applications with dashboard & status tracking.  
+Full-stack simulation platform where users apply for Passport/Visa and admins approve/reject applications via dashboard.  
+✅ Multi-step application flow  
+✅ Admin dashboard with filters & status updates  
+✅ Document uploads and structured MongoDB schema  
 **Tech:** React, Node.js, Express, MongoDB, REST APIs
 
 ---
@@ -38,14 +62,23 @@ A web-based simulation where users apply for passport/visa and admins approve/re
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Nf0p503mKo?theme=dark&font=Karma&ext=activity)
 
+### 📅 LeetCode Submissions (Last 1 Year)
+![LeetCode Heatmap](assets/leetcode-heatmap.png)
+
 ---
 
 ## 📚 KodeKloud Progress
-Hands-on DevOps practice via labs and challenges.
+Hands-on DevOps learning through labs & practice.
 
-![KodeKloud Progress](https://raw.githubusercontent.com/HeerPatel30/kodekloud-devops-labs/main/assets/kodekloud-dashboard.png)
+![KodeKloud Progress](assets/kodekloud-devops-labs/assets/kodekloud-dashboard.png)
+
+---
+
+## 🐍 Contribution Snake
+![snake gif](https://raw.githubusercontent.com/HeerPatel30/HeerPatel30/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
 ## 📫 Connect with Me
-🔗 LinkedIn: https://www.linkedin.com/in/heer-patel-7ba59230a
+🔗 LinkedIn: https://www.linkedin.com/in/heer-patel-7ba59230a  
+💻 GitHub: https://github.com/HeerPatel30  
