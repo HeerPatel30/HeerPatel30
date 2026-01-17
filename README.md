@@ -57,13 +57,14 @@ Full-stack simulation platform where users apply for Passport/Visa and admins ap
 
 ---
 
-## 🧠 LeetCode
+## 🧠 LeetCode Activity
+
 🔗 Profile: https://leetcode.com/u/Nf0p503mKo/
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Nf0p503mKo?theme=dark&font=Karma&ext=activity)
 
-### 📅 LeetCode Submissions (Last 1 Year)
-![LeetCode Heatmap](assets/leetcode-heatmap.png)
+### 📅 Live LeetCode Heatmap
+![LeetCode Heatmap](https://leetcode-stats-six.vercel.app/api?username=Nf0p503mKo&theme=dark)
 
 ---
 
