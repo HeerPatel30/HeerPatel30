@@ -64,11 +64,13 @@ Full-stack simulation platform where users apply for Passport/Visa and admins ap
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Nf0p503mKo?theme=dark&font=Karma&ext=activity)
 
 ### 📅 Live LeetCode Heatmap
-![LeetCode Heatmap](https://leetcode-stats-six.vercel.app/api?username=Nf0p503mKo&theme=dark)
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/Nf0p503mKo?theme=dark&ext=heatmap)
+
 
 ---
 
 ## 🐍 Contribution Snake
+Git Hub
 ![snake gif](https://raw.githubusercontent.com/HeerPatel30/HeerPatel30/output/github-contribution-grid-snake-dark.svg)
 ---
 
