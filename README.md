@@ -9,7 +9,7 @@
 ---
 
 # 👋 Heer Patel  
-**DevOps Intern | Cloud & Backend Engineer (Node.js)**  
+**DevOps Intern | Backend Engineer (Node.js)**  
 **Linux • AWS • Docker • CI/CD • Redis • Webhooks**
 
 ---
