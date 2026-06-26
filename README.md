@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Heer+Patel+%F0%9F%91%8B;DevOps+Intern+%7C+Cloud+%26+Backend+Engineer;Linux+%7C+AWS+%7C+Docker+%7C+CI%2FCD+%7C+Redis;Building+secure+and+scalable+systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Heer+Patel+%F0%9F%91%8B;DevOps+Engineer+%7C+Cloud+%26+Backend+Engineer;Linux+%7C+AWS+%7C+Docker+%7C+CI%2FCD+%7C+Redis;Building+secure+and+scalable+systems" />
 </p>
 
 <p align="center">
