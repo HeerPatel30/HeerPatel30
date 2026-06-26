@@ -9,19 +9,19 @@
 ---
 
 # 👋 Heer Patel  
-**DevOps Intern | Backend Engineer (Node.js)**  
+**DevOps Engineer | Backend Engineer (Node.js)**  
 **Linux • AWS • Docker • CI/CD • Redis • Webhooks**
 
 ---
 
 ## 🚀 About Me
-I’m a DevOps Intern with hands-on experience in Linux systems, deployment support, and backend development.  
+I’m a DevOps Engineer with hands-on experience in Linux systems, deployment support, and backend development.  
 I enjoy building secure and scalable products, automating workflows, and improving reliability through real-world learning.
 
 ---
 
 ## 🔧 Tech Stack
-- **DevOps & Cloud:** Linux, Git/GitHub, Docker, CI/CD, AWS (Fundamentals), Redis  
+- **DevOps & Cloud:** Linux, Git/GitHub, Docker, CI/CD, Azure (Fundamentals), Redis , Kubernetes , Jenkins , Ansible , Azure Devops, Sonar Qube  
 - **Backend:** Node.js, Express.js, MongoDB, REST APIs, Webhooks  
 - **Tools:** Nginx/Apache, Postman
 
