@@ -10,7 +10,7 @@
 
 # 👋 Heer Patel  
 **DevOps Engineer | Backend Engineer (Node.js)**  
-**Linux • AWS • Docker • CI/CD • Redis • Webhooks**
+**Linux • Azure • Docker • CI/CD • Redis • Webhooks**
 
 ---
 
@@ -21,7 +21,7 @@ I enjoy building secure and scalable products, automating workflows, and improvi
 ---
 
 ## 🔧 Tech Stack
-- **DevOps & Cloud:** Linux, Git/GitHub, Docker, CI/CD, Azure (Fundamentals), Redis , Kubernetes , Jenkins , Ansible , Azure Devops, Sonar Qube  
+- **DevOps & Cloud:** Linux, Git/GitHub, Docker, CI/CD, Azure, Redis , Kubernetes , Jenkins , Ansible , Azure Devops, Sonar Qube  
 - **Backend:** Node.js, Express.js, MongoDB, REST APIs, Webhooks  
 - **Tools:** Nginx/Apache, Postman
 
